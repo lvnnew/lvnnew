@@ -1,6 +1,6 @@
 ### Hello! I'm Vladimir Leshenko
 
-#### I'm QA Engeneer and Junior Web Developer
+#### I'm QA Engeneer
 
 ##### I like
 
@@ -10,7 +10,10 @@
   
 ### Tools
 
-+ <img width="18px" src="https://user-images.githubusercontent.com/60035393/149419566-b58f4bd6-80d2-4daa-b0f1-acd700c8625c.png" /><img width="18px" src="https://user-images.githubusercontent.com/60035393/149419687-da5eadc8-a1e1-49b0-a0c9-4958f7fd6ca4.png" /><img width="18px" src="https://user-images.githubusercontent.com/60035393/149420028-93376177-e975-4062-b9b4-05d4b436b264.png" />
++
++
++
++
 
 ##### I use
 
