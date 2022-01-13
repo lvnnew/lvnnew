@@ -1,7 +1,7 @@
-    ![Header](https://github.com/lvnnew/lvnnew/blob/main/assets/header.jpg)
+![Header](https://github.com/lvnnew/lvnnew/blob/main/assets/header.png)
 
-    About Me
+About Me
 
-    Tools
+Tools
 
-    Folow Me
+Folow Me
