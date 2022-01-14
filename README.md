@@ -1,4 +1,4 @@
-### Hello! I'm Vladimir Leshenko
+## Hello! I'm Vladimir Leshenko
 
 #### I'm QA Engeneer
 
@@ -10,12 +10,13 @@
   
 ### Tools
 
-+
-+
-+
-+
-
 ##### I use
+
++ Postman
++ Devtools
++ Bash
++ Jira Confluence
++ Charles 
 
 ### Contact Me
 ![Telegram](https://img.shields.io/twitter/url?label=Telegram&logo=Telegram&style=for-the-badge&url=https%3A%2F%2Ft.me%2Fleshenkov)
