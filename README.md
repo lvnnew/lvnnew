@@ -19,6 +19,6 @@
 + Charles 
 
 ### Contact Me
-![Telegram](https://img.shields.io/twitter/url?label=Telegram&logo=Telegram&style=for-the-badge&url=https%3A%2F%2Ft.me%2Fleshenkov)
-![LinkedIn](https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flvnnew%2F)
-![Instagram](https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fleshenkovn%2F)
+![Telegram](https://t.me/leshenkov)
+![LinkedIn](https://www.linkedin.com/in/lvnnew/)
+![Instagram](https://www.instagram.com/leshenkovn/)
