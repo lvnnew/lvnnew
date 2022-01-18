@@ -18,7 +18,7 @@
 + Jira Confluence
 + Charles 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvnnew&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvnnew&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact Me
 + [Telegram](https://t.me/leshenkov)
