@@ -1,4 +1,4 @@
-# Hello! I'm Vladimir Leshenko
+# Hello! I'm Vladimir
 
 ## I'm QA Engeneer
 
