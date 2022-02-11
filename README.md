@@ -2,9 +2,9 @@
 
 # Hello! I'm Vladimir
 
-## I'm QA Engeneer
+### I'm QA Engeneer
 
-## **_I like_**
+### **_I like_**
 
 <img width="14px" src="https://user-images.githubusercontent.com/60035393/149417705-cc34cf52-a359-4e36-894b-fdcb6fe5092b.png" /> Games |
 <img width="14px" src="https://user-images.githubusercontent.com/60035393/149417851-289b899b-e462-45d2-9ee4-68e60a26130a.png" /> Music |
@@ -12,7 +12,7 @@
 
 <hr>
 
-## **_I use_** <br><br>
+### **_I use_** <br><br>
 
 <div>
 	<img alt="devtools" width="35px" src="https://user-images.githubusercontent.com/89486551/143319750-2f729405-4b8a-4f73-8e16-b5c7780517fc.png" />
@@ -32,7 +32,7 @@
 
 <hr>
 
-## **_Contact Me_**
+### **_Contact Me_**
 
 | [LinkedIn][li] | [Telegram][tg] | [Instagram][in] |
 
