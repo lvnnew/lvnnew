@@ -2,7 +2,7 @@
 
 # Hello! I'm Vladimir
 
-## I'm QA Engeneer <br><br>
+## I'm QA Engeneer <br><br><hr>
 
 ## **_I like_** <br><br>
 
