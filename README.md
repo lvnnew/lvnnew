@@ -4,8 +4,6 @@
 
 ## I'm QA Engeneer
 
-<hr>
-
 ## **_I like_**
 
 <img width="14px" src="https://user-images.githubusercontent.com/60035393/149417705-cc34cf52-a359-4e36-894b-fdcb6fe5092b.png" /> Games |
