@@ -15,7 +15,7 @@
 
 ### **_I use_** <br><br>
 
-a.disabled {
+img.disabled {
     pointer-events: none; /* делаем ссылку некликабельной */
     cursor: default;  /* устанавливаем курсор в виде стрелки */
 }
