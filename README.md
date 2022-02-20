@@ -15,7 +15,7 @@
 
 ### **_I use_** <br><br>
 	
-<div>
+<div style="pointer-events:none;">
 	<img alt="devtools" width="35px" src="https://user-images.githubusercontent.com/89486551/143319750-2f729405-4b8a-4f73-8e16-b5c7780517fc.png" />
 	<img alt="dbeaver" width="35px" src="https://user-images.githubusercontent.com/89486551/143319757-0bbd31ce-7860-447a-9571-504653849d0b.png" />
 	<img alt="PostgreSQL" width="35px" src="https://user-images.githubusercontent.com/89486551/143319773-17f2e07b-8dc2-4f02-9b60-e9f0b421ce06.png" />
