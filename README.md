@@ -1,19 +1,19 @@
 <div align="center">
 
-# Hello! I'm Vladimir
+# Владимир Лещенко
 
-### I'm QA Engeneer
+### QA Engeneer
 
-### **_I like_**
+### **_я увлекаюсь_**
 
 |
-<img width="14px" src="https://user-images.githubusercontent.com/60035393/149417705-cc34cf52-a359-4e36-894b-fdcb6fe5092b.png" /> Games |
-<img width="14px" src="https://user-images.githubusercontent.com/60035393/149417851-289b899b-e462-45d2-9ee4-68e60a26130a.png" /> Music |
-<img width="14px" src="https://user-images.githubusercontent.com/60035393/149418001-d9c07ba9-401b-4d5e-958d-714166b03f1f.png" /> Coding |
+<img width="14px" src="https://user-images.githubusercontent.com/60035393/149417705-cc34cf52-a359-4e36-894b-fdcb6fe5092b.png" /> Игры |
+<img width="14px" src="https://user-images.githubusercontent.com/60035393/149417851-289b899b-e462-45d2-9ee4-68e60a26130a.png" /> Музыка |
+<img width="14px" src="https://user-images.githubusercontent.com/60035393/149418001-d9c07ba9-401b-4d5e-958d-714166b03f1f.png" /> Программирование |
 
 <hr>
 
-### **_I use_** <br><br>
+### **_я использую_** <br><br>
 	
 <div>
 	<img alt="devtools" width="35px" src="https://user-images.githubusercontent.com/89486551/143319750-2f729405-4b8a-4f73-8e16-b5c7780517fc.png" />
@@ -33,7 +33,7 @@
 
 <hr>
 
-### **_I here_**
+### **_я здесь_**
 
 | [LinkedIn][li] | [Telegram][tg] | [Instagram][in] |
 
