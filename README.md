@@ -3,6 +3,9 @@
 # Vladimir Leshenko
 
 ### Full Stack Developer
+<p align="center">
+  <a href="https://lvnnew.github.io/Leshenko-ReactDeveloper-cv/">View CV</a>
+</p>
 
 ### **_interested in_**
 
