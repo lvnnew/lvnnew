@@ -3,8 +3,9 @@
 # Vladimir Leshenko
 
 ### FullStack Developer
+<!--   
 <p align="center">
-  <a href="https://lvnnew.github.io/Leshenko-ReactDeveloper-cv/">View CV</a>
+<a href="https://lvnnew.github.io/Leshenko-ReactDeveloper-cv/">View CV</a>
 </p>
 
 <hr>
@@ -33,3 +34,4 @@
 [tg]: https://t.me/leshenkov
 	
 <div>
+-->
