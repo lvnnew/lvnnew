@@ -2,21 +2,14 @@
 
 # Vladimir Leshenko
 
-### Full Stack Developer
+### FullStack Developer
 <p align="center">
   <a href="https://lvnnew.github.io/Leshenko-ReactDeveloper-cv/">View CV</a>
 </p>
 
-### **_interested in_**
-
-|
-<img width="14px" src="https://user-images.githubusercontent.com/60035393/149417705-cc34cf52-a359-4e36-894b-fdcb6fe5092b.png" /> Game |
-<img width="14px" src="https://user-images.githubusercontent.com/60035393/149417851-289b899b-e462-45d2-9ee4-68e60a26130a.png" /> Music |
-<img width="14px" src="https://user-images.githubusercontent.com/60035393/149418001-d9c07ba9-401b-4d5e-958d-714166b03f1f.png" /> Programming |
-
 <hr>
 
-### **_I use_** <br><br>
+### **_Use_** <br><br>
 	
 <div>
 	<img alt="devtools" width="35px" src="https://user-images.githubusercontent.com/89486551/143319750-2f729405-4b8a-4f73-8e16-b5c7780517fc.png" />
@@ -33,11 +26,7 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvnnew&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<hr>
-
-### **_contact me_**
+### **_Contact_**
 
 | [Telegram][tg] |
 
