@@ -1,8 +1,6 @@
 <div align="center">
 
-# Vladimir Leshenko
-
-### DevOps
+### Rune Priest
 <!--   
 <p align="center">
 <a href="https://lvnnew.github.io/Leshenko-ReactDeveloper-cv/">View CV</a>
