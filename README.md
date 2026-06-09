@@ -2,7 +2,7 @@
 
 # Vladimir Leshenko
 
-### Dev
+### DevOps
 <!--   
 <p align="center">
 <a href="https://lvnnew.github.io/Leshenko-ReactDeveloper-cv/">View CV</a>
